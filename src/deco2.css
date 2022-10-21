@@ -1,0 +1,6 @@
+#deco{
+    position: absolute;
+    top: 1300px;
+    right: -150px;
+    transform: rotate(180deg);
+}
